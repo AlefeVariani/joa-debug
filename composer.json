@@ -1,0 +1,19 @@
+{
+    "name": "AlefeVariani/ajo-debug",
+    "description": "Biblioteca PHP para formatação de saídas de dados",
+    "authors": [
+        {
+            "name": "Alefe Variani",
+            "email": "alefevariani18@gmail.com",
+            "role": "Web Developer PHP"
+        },
+        {
+            "name": "Jonas Rodrigeri",
+            "email": "jonasrodrigeri@unochapeco.edu.br",
+            "role": "Web Developer PHP"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
