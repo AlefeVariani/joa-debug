@@ -2,7 +2,7 @@
 
 class Debug
 {
-	static public function a()
+	static public function debug()
 	{
 		return "debug teste";
 	}
