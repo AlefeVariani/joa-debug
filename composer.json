@@ -1,6 +1,6 @@
 {
     "name": "joa/debug",
-    "description": "Biblioteca PHP para formatação de saídas de dados",
+    "description": "PHP library for formatting data outputs",
     "authors": [
         {
             "name": "Alefe Variani",
