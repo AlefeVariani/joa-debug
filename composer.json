@@ -1,10 +1,13 @@
 {
     "name": "joa/debug",
+    "type": "library",
     "description": "PHP library for formatting data outputs",
+    "license": "MIT",
     "authors": [
         {
             "name": "Alefe Variani",
             "email": "alefevariani18@gmail.com",
+            "homepage": "https://about.me/alefe_variani",
             "role": "Web Developer PHP"
         },
         {
